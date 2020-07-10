@@ -1,5 +1,9 @@
 ### Hi there 👋
+
+[![Profile Visits](http://hits.dwyl.com/UdeshUdayakumar/UdeshUdayakumar.svg)](http://hits.dwyl.com/UdeshUdayakumar/UdeshUdayakumar)
+
 Welcome to my profile. Follow me if you want to get updated with my works.
+
 - 🔭 I’m currently pursuing 3rd year of computer science and engineering.
 - 🌱 I’m currently learning many things which can't be listed but you can definitely get to know if you can have a talk with me.
 - 👯 I’m looking to collaborate on socially relevant projects as I always wish to contribute a value to the society.
