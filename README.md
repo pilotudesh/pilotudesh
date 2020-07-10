@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Profile Visits](http://hits.dwyl.com/UdeshUdayakumar/UdeshUdayakumar.svg)](http://hits.dwyl.com/UdeshUdayakumar/UdeshUdayakumar)
+
 
 Welcome to my profile. Follow me if you want to get updated with my works.
 
