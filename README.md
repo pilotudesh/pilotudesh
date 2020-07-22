@@ -7,7 +7,7 @@ Welcome to my profile. Follow me if you want to get updated with my works.
 - 🔭 I’m currently pursuing 3rd year of computer science and engineering.
 - 🌱 I’m currently learning many things which can't be listed but you can definitely get to know if you can have a talk with me.
 - 👯 I’m looking to collaborate on socially relevant projects as I always wish to contribute a value to the society.
-- 🤔 I’m looking for help with learning React and TensorFlow at an advanced level.
+- 🤔 I’m looking for help with learning Google Cloud Platform and AWS at an advanced level.
 - 💬 Ask me about airplanes, aviation, technologies and data analytics.
 - 📫 How to reach me: Twitter and LinkedIn (Udesh Udayakumar)
 - ⚡ Fun fact: Haters always hate. Let the success do the talking.
