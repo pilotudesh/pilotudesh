@@ -3,6 +3,7 @@
 ### Hi there 👋
 
 Welcome to my profile. Follow me if you want to get updated with my works.
+## I'm a Google Cloud Certified Associate Cloud Engineer.
 
 - 🔭 I’m currently pursuing my final year of computer science and engineering.
 - 🌱 I’m currently learning many things which can't be listed but you can definitely get to know if you can have a talk with me.
